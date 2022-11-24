@@ -407,4 +407,8 @@ footer h2 {
     .common {
         width: 300px;
     }
+    footer
+    {
+        width:500px;
+    }
 }
